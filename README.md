@@ -1,3 +1,5 @@
+description
+===========
 Ahora puedes probar un tatuaje de forma realista con esta aplicación antes de obtenerlo.
 
 Los <a href="https://minitatuajes.com/">Tatuajes Pequeños</a> son cada vez más comunes en el lugar de trabajo. Gracias a la tecnología y la cultura de inicio, que es mucho más laxa que los lugares tradicionales, ahora es aceptable mostrar su tinta permanente en la naturaleza. Pero, por supuesto, todavía hay temor de comprometerse con la tinta permanente. Antes de entintar a mano su próxima pieza de arte, hay una mejor opción, como esta aplicación.
